@@ -1,6 +1,6 @@
 /*----------ids----------*/
 
-#cta {
+#bookAppointment {
     background-color: #000000;
     color: #fff;
     padding: 7%;
@@ -49,6 +49,11 @@
     font-size: 3rem;
 }
 
+.bookAppointment-img {
+    right: 30%;
+    width: 100%;
+}
+
 .carousel-item {
     padding: 7% 15%;
 }
@@ -64,7 +69,7 @@
 
 .darziAtDoor-img {
     right: 30%;
-    width: 60%;
+    width: 100%;
 }
 
 .down-btn {
@@ -78,7 +83,7 @@
 
 .eventStyling-img {
     right: 30%;
-    width: 60%;
+    width: 100%;
 }
 
 .feature-heading {
@@ -159,7 +164,7 @@
 
 .shoppingBuddy-img {
     right: 30%;
-    width: 60%;
+    width: 100%;
 }
 
 .small-heading {
@@ -191,6 +196,10 @@ p {
     
     #title {
         text-align: center;
+    }
+
+    .container-fluid {
+        padding: 3% 3% 3%;
     }
 
     .title-img {
