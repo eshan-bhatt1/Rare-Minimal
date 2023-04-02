@@ -50,7 +50,6 @@
 }
 
 .bookAppointment-img {
-    right: 30%;
     width: 100%;
 }
 
@@ -196,6 +195,10 @@ p {
     
     #title {
         text-align: center;
+    }
+
+    .bookAppointment-img {
+        width: 100%;
     }
 
     .container-fluid {
